@@ -2,7 +2,8 @@ const navLinks = [
 
   {
     id: "about",
-    title: "About Us",
+    title: "About Me",
+    
   },
   {
     id: "lectures",
